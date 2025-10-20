@@ -14,6 +14,8 @@ This team project analyzes customer transaction data to uncover behavioral patte
 - Analyze seasonal and monthly sales trends  
 - Deliver strategic recommendations for retention and growth
 
+## Data Used
+- https://www.kaggle.com/datasets/vijayuv/onlineretail
 
 
 ---
